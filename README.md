@@ -20,4 +20,5 @@ Login as admin, create trip entires
 npm start front end in "project" folder
 
 Technologies used: HTML, CSS, JS, React Python, Django
-Backend Implemented as well for Absolute +5 Bonus
+
+(Backend Implemented as well for Absolute +5 Bonus)

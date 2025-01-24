@@ -1,0 +1,83 @@
+
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+body{
+    margin: 0;
+}
+.main-nav-cont{
+    display: flex;
+    width: 100%;
+    background-color: red;
+    height: 7vh;
+}
+.logo{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    color: white;
+    border: 1px dashed yellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 2vb;
+}
+
+.nav-items{
+    display: flex;
+    border: 1px dashed yellow;
+    width: 100%;
+    align-items: stretch;
+    justify-content: flex-end;
+
+}
+
+.nav-items ul{ 
+    margin-top: 2.5vb;
+    list-style: none;
+
+}
+
+.nav-items ul li{   display: inline-block;
+    margin-right:5vb;
+    font-size: 20px;
+
+    }
+
+.dd-button{
+    height: 100%;
+    width: 15vb;
+    margin-bottom: 5vh;
+    background-color: red;
+     border-radius: 7px;
+     margin-top: 1vh;
+     padding: 1vh 0vh 1vh 0vh;
+}
+.dd-button:hover {
+   
+    filter: brightness(60%);
+
+  }
+
+.dd-menu{
+    border: 1px dashed blue;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    border-radius: 25px;
+    
+     
+}
+.dd-options{
+
+    background-color: rgb(255, 233, 233);
+    width: 40;
+    border-radius: 7px;
+}
+
+.new-box{
+
+    border: 1px dashed yellow;
+}
+

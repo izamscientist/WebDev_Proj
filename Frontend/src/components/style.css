@@ -1,0 +1,45 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+.nav-items{
+    color: white;
+}
+.nav-items li{
+    font-size: 20px;
+    margin-right: 2.5vw;
+}
+
+.logo{
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.list-cont{
+    width: 100%;
+}
+
+.main-header{
+    color: white;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+.form-card{
+    width: 85%;
+}
+
+.bookbtn-main{
+    width:200px
+}
+
+.card-text{
+    font-family:Arial;
+    font-size: 18px;
+    font-weight: 400;
+    color: rgb(83, 83, 83);
+}

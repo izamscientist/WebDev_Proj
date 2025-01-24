@@ -1,17 +1,22 @@
-CSCS342A_WEBDEV_PROJECT
+
+CSCS342_WEBDEV_PROJECT
 
 Topic: Cruise ship booking website
 
-Group Members: Muhammad Shehryar Nasir 241605237, Ali Amir 241608107
+Group Members: Hamza Haroon 251706435, Hassan khalid 261925524
 
 Admin login
 
-username:605237
+username:
 
-password:605237
+password:
 
 Front end in project folder
-1. Run Django backend: manage.py runserver in Backend/venv/projectname
-2. Login as admin, create trip entires
-3. npm start front end in "project" folder
-   
+
+Run Django backend: manage.py runserver in Backend/venv/projectname
+
+Login as admin, create trip entires
+
+npm start front end in "project" folder
+
+Technologies used: HTML, CSS, JS, React Python, Django

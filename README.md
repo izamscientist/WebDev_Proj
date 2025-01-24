@@ -7,17 +7,17 @@ Group Members: Hamza Haroon 251706435, Hassan khalid 261925524
 
 Admin login
 
-username:
+username: hamza
 
-password:
+password: 1234
 
-Front end in project folder
+Front end in Frontend folder
 
 Run Django backend: manage.py runserver in Backend/venv/projectname
 
 Login as admin, create trip entires
 
-npm start front end in "project" folder
+npm start front end in "Frontend" folder
 
 Technologies used: HTML, CSS, JS, React Python, Django
 
